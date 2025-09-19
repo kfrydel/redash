@@ -1,6 +1,5 @@
 import _ from "lodash";
 import {
-  getDefaultColumnsOptions,
   getDefaultFormatOptions,
   getColumnsOptions,
 } from "@/visualizations/shared/columnUtils";
